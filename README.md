@@ -1,2 +1,2 @@
 # php
-php along with postgresql (table update)
+php along with postgresql
